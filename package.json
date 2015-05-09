@@ -1,0 +1,12 @@
+{
+  "name": "yo-got-mail",
+  "version": "0.0.0",
+  "description": "Yo Got Mail",
+  "main": "yo-got-mail.coffee",
+  "dependencies": {
+    "request": "^2.55.0",
+    "bluebird": "^2.9.25"
+  },
+  "author": "Evan Morikawa",
+  "license": "MIT"
+}
